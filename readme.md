@@ -2,4 +2,6 @@
 
 ## Linux
 
+- mkdir - makes directories
+
 ## GIT
