@@ -5,3 +5,6 @@
 - mkdir - makes directories
 
 ## GIT
+
+- git add
+
